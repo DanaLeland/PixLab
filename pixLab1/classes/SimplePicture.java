@@ -1,4 +1,4 @@
-package pixLab.classes;
+ 
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
@@ -16,7 +16,7 @@ import java.awt.geom.*;
  * 
  * @author Barb Ericson ericson@cc.gatech.edu
  */
-public class SimplePicture implements DigitalPicture
+public class SimplePicture extends FileChooser implements DigitalPicture
 {
   
   /////////////////////// Fields /////////////////////////

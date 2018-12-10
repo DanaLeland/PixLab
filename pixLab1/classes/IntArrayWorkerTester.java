@@ -1,6 +1,6 @@
-package classes;
+ 
 
-public class IntArrayWorkerTester
+public class IntArrayWorkerTester extends IntArrayWorker
 {
   /** method to test setMatrix */
   public static void testSetMatrix()
